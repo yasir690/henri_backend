@@ -1,0 +1,516 @@
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"fahad"}
+{"level":"info","message":"User register successfully"}
+{"level":"info","message":"User update successfully","userName":"fahadshikari"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"User not found"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"following"}
+{"level":"info","message":"get user fans"}
+{"level":"info","message":"get user fans"}
+{"level":"info","message":"status created succesfully"}
+{"level":"info","message":"status found"}
+{"level":"info","message":"newsfeed create succesfully","title":"title"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"fetch news feed by id"}
+{"level":"info","message":"newsfeed update successfully","title":"title2"}
+{"level":"info","message":"newsfeed delete"}
+{"level":"info","message":"news feed shared"}
+{"level":"info","message":"news feed liked"}
+{"level":"info","message":"news feed rated"}
+{"level":"info","message":"avarage rated found"}
+{"level":"info","message":"User register successfully","userName":"Jane Smith"}
+{"level":"info","message":"User register successfully","userName":"Jane Smith"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"fahad"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User updated successfully","userName":"fahadshikari"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"Test User"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user teammates","userName":"john_doe"}
+{"level":"info","message":"User register successfully","userName":"fahad"}
+{"level":"info","message":"User register successfully","userName":"Umaiz"}
+{"level":"info","message":"User register successfully","userName":"Umaiz3"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"newsfeed create succesfully"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"avarage rated found"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"get user fans"}
+{"level":"info","message":"get user teammates"}
+{"level":"info","message":"avarage rated found"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User register successfully","userName":"testing"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"status found"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"chamber"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"chamber"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"status found"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"status found"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"newsfeed create succesfully"}
+{"level":"info","message":"fetch news feed by id"}
+{"level":"info","message":"fetch news feed by id"}
+{"level":"info","message":"fetch news feed by id"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"status found"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"status found"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"status found"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"status found"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"status found"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"status found"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"status found"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"avarage rated found"}
+{"level":"info","message":"news feed rated"}
+{"level":"info","message":"news feed rated"}
+{"level":"info","message":"User register successfully","userName":"dummy"}
+{"level":"info","message":"User register successfully","userName":"dummy"}
+{"level":"info","message":"User register successfully","userName":"dummy"}
+{"level":"info","message":"User register successfully","userName":"dummy"}
+{"level":"info","message":"User register successfully","userName":"dummy"}
+{"level":"info","message":"User register successfully","userName":"dummy"}
+{"level":"info","message":"User register successfully","userName":"dummy"}
+{"level":"info","message":"User register successfully","userName":"dummy"}
+{"level":"info","message":"User register successfully","userName":"dummy"}
+{"level":"info","message":"User register successfully","userName":"gadsasda"}
+{"level":"info","message":"User register successfully","userName":"umaiz"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"status found"}
+{"level":"info","message":"fetch news feed"}
+{"level":"info","message":"User found successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"chamber"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"chamber"}
+{"level":"info","message":"User register successfully","userName":"chamber"}
+{"level":"info","message":"User register successfully","userName":"chamber"}
+{"level":"info","message":"User register successfully","userName":"chamber"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"newsfeed create succesfully","title":"asdasda"}
+{"level":"info","message":"newsfeed create succesfully","title":"post1"}
+{"level":"info","message":"newsfeed create succesfully","title":"post2"}
+{"level":"info","message":"newsfeed create succesfully","title":"post3"}
+{"level":"info","message":"newsfeed create succesfully","title":"post4"}
+{"level":"info","message":"newsfeed create succesfully","title":"post5"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User register successfully","userName":"yasir"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"chamber"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"anas"}
+{"level":"info","message":"User register successfully","userName":"anas"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User authenticated successfully"}
+{"level":"info","message":"User register successfully","userName":"anas"}
+{"level":"info","message":"User register successfully","userName":"anas"}
+{"level":"info","message":"User register successfully","userName":"anas"}
+{"level":"info","message":"User register successfully","userName":"anas"}
+{"level":"info","message":"User register successfully","userName":"anass"}
+{"level":"info","message":"User register successfully","userName":"anas"}
+{"level":"info","message":"User register successfully","userName":"anas"}
+{"level":"info","message":"User register successfully","userName":"anas1"}
+{"level":"info","message":"User register successfully","userName":"anas"}
+{"level":"info","message":"User register successfully","userName":"anas1"}
+{"level":"info","message":"User updated successfully"}
+{"level":"info","message":"User updated successfully"}
+{"level":"info","message":"User updated successfully"}
+{"level":"info","message":"User updated successfully"}

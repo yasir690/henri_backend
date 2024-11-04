@@ -1,0 +1,295 @@
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User not found"}
+{"error":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"64654f5693d701b5cf43555\" (type string) at path \"_id\" for model \"users\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"64654f5693d701b5cf43555\"","value":"64654f5693d701b5cf43555","valueType":"string"},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not updated","userName":"fahadshikari"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"not found user teammates"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"Internal server error","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"Internal server error","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"Internal server error","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"Internal server error","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"Internal server error","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":"Internal server error","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":"Internal server error","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"Internal server error","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"Internal server error","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"Internal server error","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"Internal server error","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"error":"Internal server error","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User not found"}
+{"error":"Cannot read properties of undefined (reading 'userName')","level":"error","message":"An error occurred"}
+{"error":"Cannot read properties of undefined (reading 'userName')","level":"error","message":"An error occurred"}
+{"error":"Database connection error","level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"level":"error","message":"not found user fans"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User not found"}
+{"error":"userModel.findById(...).populate is not a function","level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"error":{"_message":"users validation failed","errors":{"channelName":{"kind":"required","message":"Path `channelName` is required.","name":"ValidatorError","path":"channelName","properties":{"message":"Path `channelName` is required.","path":"channelName","type":"required"}}},"message":"users validation failed: channelName: Path `channelName` is required.","name":"ValidationError"},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"error":{"code":13297,"index":0},"level":"error","message":"An error occurred"}
+{"error":{"code":13297,"index":0},"level":"error","message":"An error occurred"}
+{"error":{"code":13297,"index":0},"level":"error","message":"An error occurred"}
+{"error":{"code":13297,"index":0},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"level":"error","message":"User authenticated failed"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"error","message":"Internal server error"}
+{"error":{"_message":"users validation failed","errors":{"otpNumber":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"123456\" (type string) at path \"otpNumber\" because of \"BSONTypeError\"","name":"CastError","path":"otpNumber","reason":{},"stringValue":"\"123456\"","value":"123456","valueType":"string"}},"message":"users validation failed: otpNumber: Cast to ObjectId failed for value \"123456\" (type string) at path \"otpNumber\" because of \"BSONTypeError\"","name":"ValidationError"},"level":"error","message":"An error occurred"}
+{"error":{"_message":"users validation failed","errors":{"otpNumber":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"123456\" (type string) at path \"otpNumber\" because of \"BSONTypeError\"","name":"CastError","path":"otpNumber","reason":{},"stringValue":"\"123456\"","value":"123456","valueType":"string"}},"message":"users validation failed: otpNumber: Cast to ObjectId failed for value \"123456\" (type string) at path \"otpNumber\" because of \"BSONTypeError\"","name":"ValidationError"},"level":"error","message":"An error occurred"}
+{"error":{"_message":"users validation failed","errors":{"otpNumber":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"123456\" (type string) at path \"otpNumber\" because of \"BSONTypeError\"","name":"CastError","path":"otpNumber","reason":{},"stringValue":"\"123456\"","value":"123456","valueType":"string"}},"message":"users validation failed: otpNumber: Cast to ObjectId failed for value \"123456\" (type string) at path \"otpNumber\" because of \"BSONTypeError\"","name":"ValidationError"},"level":"error","message":"An error occurred"}
+{"error":{"_message":"users validation failed","errors":{"otpNumber":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"123456\" (type string) at path \"otpNumber\" because of \"BSONTypeError\"","name":"CastError","path":"otpNumber","reason":{},"stringValue":"\"123456\"","value":"123456","valueType":"string"}},"message":"users validation failed: otpNumber: Cast to ObjectId failed for value \"123456\" (type string) at path \"otpNumber\" because of \"BSONTypeError\"","name":"ValidationError"},"level":"error","message":"An error occurred"}
+{"error":{"_message":"users validation failed","errors":{"otpNumber":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"123456\" (type string) at path \"otpNumber\" because of \"BSONTypeError\"","name":"CastError","path":"otpNumber","reason":{},"stringValue":"\"123456\"","value":"123456","valueType":"string"}},"message":"users validation failed: otpNumber: Cast to ObjectId failed for value \"123456\" (type string) at path \"otpNumber\" because of \"BSONTypeError\"","name":"ValidationError"},"level":"error","message":"An error occurred"}
+{"error":{"_message":"users validation failed","errors":{"otpNumber":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"123456\" (type string) at path \"otpNumber\" because of \"BSONTypeError\"","name":"CastError","path":"otpNumber","reason":{},"stringValue":"\"123456\"","value":"123456","valueType":"string"}},"message":"users validation failed: otpNumber: Cast to ObjectId failed for value \"123456\" (type string) at path \"otpNumber\" because of \"BSONTypeError\"","name":"ValidationError"},"level":"error","message":"An error occurred"}
+{"error":{"_message":"users validation failed","errors":{"otpNumber":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"123456\" (type string) at path \"otpNumber\" because of \"BSONTypeError\"","name":"CastError","path":"otpNumber","reason":{},"stringValue":"\"123456\"","value":"123456","valueType":"string"}},"message":"users validation failed: otpNumber: Cast to ObjectId failed for value \"123456\" (type string) at path \"otpNumber\" because of \"BSONTypeError\"","name":"ValidationError"},"level":"error","message":"An error occurred"}
+{"level":"error","message":"Internal server error"}
+{"level":"error","message":"Internal server error"}
+{"level":"error","message":"User authenticated failed"}
